@@ -1,0 +1,1 @@
+A few simple examples of Verilog. I using ModelSim IDE to compile code
